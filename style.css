@@ -1,0 +1,45 @@
+body{
+    font-family: 'Comic Neue', cursive;
+    background: linear-gradient(rgb(14, 215, 241) 25%, rgb(12, 178, 243) 45%, rgb(38, 0, 255) 30%);
+}
+
+.header_div{
+background-color: rgb(253, 159, 37);
+color: cyan;
+}
+
+#result_confidene{
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.header_div p{
+     font-family: 'Bebas Neue', cursive;
+color: rgb(255, 60, 0);
+font-size: 80px;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+font-style: italic;
+}
+
+#hi{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main_div button{
+    font-family: 'Lobster', cursive;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+position: fixed;
+color: rgb(255, 0, 128);
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(200, 220, 20);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(248, 170, 3);
+}
